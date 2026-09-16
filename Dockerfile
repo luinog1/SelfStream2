@@ -1,4 +1,4 @@
-FROM qwertyuiop8899/selfstream:warp
+FROM qwertyuiop8899/selfstream:latest
 
 # or new release on qwertyuiop8899/selfstream:warpdevelop
 # HuggingFace: 7860 | Koyeb: 8000 | Render: 10000
